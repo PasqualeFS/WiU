@@ -1,4 +1,4 @@
 Github.txt
 
-Github Pages URL: Still trying to get this to work
+Github Pages URL: http://pasqualefs.github.io/WiU/Build1Assignment/index.html
 Github folder URL for WiU: https://github.com/PasqualeFS/WiU
